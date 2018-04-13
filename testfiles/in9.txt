@@ -1,0 +1,7 @@
+abcd
+dabb
+cdba
+aabd
+cbca
+cadbba
+c

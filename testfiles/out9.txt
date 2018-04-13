@@ -1,0 +1,8 @@
+(c(a(d(bb))))a
+(c((ad)b))(ba)
+((ca)(d(bb)))a
+((ca)((db)b))a
+((c(ad))(bb))a
+((c((ad)b))b)a
+(((ca)d)b)(ba)
+((((ca)d)b)b)a

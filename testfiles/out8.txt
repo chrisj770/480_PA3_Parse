@@ -1,0 +1,12 @@
+c((ad)(b(ba)))
+c(((ad)(bb))a)
+c(((a(db))b)a)
+(c(a((db)b)))a
+(c((ad)(bb)))a
+(c((a(db))b))a
+(c(((ad)b)b))a
+((ca)d)(b(ba))
+((c(a(db)))b)a
+(((ca)d)(bb))a
+(((ca)(db))b)a
+(((c(ad))b)b)a

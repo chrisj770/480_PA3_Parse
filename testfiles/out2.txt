@@ -1,0 +1,4 @@
+b(a(bc))
+b((ab)c)
+(b(ab))c
+((ba)b)c
